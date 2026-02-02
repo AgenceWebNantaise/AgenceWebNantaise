@@ -1,3 +1,5 @@
+![L’Agence Web Nantaise](./Logo.png)
+
 ## AgenceWebNantaise – Compte GitHub Pro
 
 Bienvenue sur le dépôt `AgenceWebNantaise`.
